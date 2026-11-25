@@ -39,4 +39,4 @@
 
 ## BlueCapeSecurity
 
-* [101 Enterprise Security Fundamentals](bluecapesecurity/101-enterprise-security-fundamentals.md)
+* [Analyst Core](bluecapesecurity/analyst-core.md)
