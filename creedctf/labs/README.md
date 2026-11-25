@@ -1,5 +1,5 @@
 ---
-description: 'Link : https://creed-ctf.fr/labs'
+description: 'Access link : https://creed-ctf.fr/labs'
 ---
 
 # Labs
