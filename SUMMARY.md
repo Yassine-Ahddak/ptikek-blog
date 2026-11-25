@@ -9,7 +9,13 @@
 
 ## CreedCTF
 
-* [Cheesecake Lab](creedctf/cheesecake-lab.md)
+* [Labs](creedctf/labs/README.md)
+  * [Cheesecake](creedctf/labs/cheesecake.md)
+* [Dynamic Machines](creedctf/dynamic-machines/README.md)
+  * [SPNight](creedctf/dynamic-machines/spnight.md)
+* [Legacy Machines](creedctf/legacy-machines/README.md)
+  * [POC9](creedctf/legacy-machines/poc9.md)
+  * [POC10](creedctf/legacy-machines/poc10.md)
 
 ## HOMELAB
 
