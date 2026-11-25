@@ -1,5 +1,6 @@
-# Cheesecake Lab
+---
+description: 'Link : https://creed-ctf.fr/labs'
+---
 
-```bash
-// test
-```
+# Labs
+
