@@ -5,11 +5,15 @@
 ## PWNEDLABS
 
 * [Academy](pwnedlabs/academy/README.md)
-  * [Azure Blob Container to Initial Access](pwnedlabs/academy/azure-blob-container-to-initial-access.md)
+  * [Azure Blob Container to Initial Access (ongoing)](pwnedlabs/academy/azure-blob-container-to-initial-access-ongoing.md)
   * [Phished for Initial Access](pwnedlabs/academy/phished-for-initial-access.md)
 * [Bootcamps](pwnedlabs/bootcamps/README.md)
   * [MCRTP (ongoing)](pwnedlabs/bootcamps/mcrtp-ongoing.md)
 * [Cyber Ranges](pwnedlabs/cyber-ranges.md)
+
+## TCM Security
+
+* [PJPT Exam Review (ongoing)](tcm-security/pjpt-exam-review-ongoing.md)
 
 ## CreedCTF
 

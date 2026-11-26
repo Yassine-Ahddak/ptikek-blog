@@ -3,5 +3,6 @@ description: 'Link : https://app.pwnedlabs.io/labs/azure-blob-container-to-initi
 icon: microsoft
 ---
 
-# Azure Blob Container to Initial Access
+# Azure Blob Container to Initial Access (ongoing)
 
+more to come...

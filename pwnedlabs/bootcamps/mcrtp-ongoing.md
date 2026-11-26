@@ -11,3 +11,6 @@ icon: microsoft
 
 **Azure Cloud Attack Cheat Sheet :** [https://pwnedlabs.io/resources/azure-cloud-attack-cheat-sheet](https://pwnedlabs.io/resources/azure-cloud-attack-cheat-sheet)
 
+
+
+more to come...
