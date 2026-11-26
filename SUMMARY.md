@@ -5,8 +5,13 @@
 ## PWNEDLABS
 
 * [Academy](pwnedlabs/academy/README.md)
-  * [Azure Blob Container to Initial Access (ongoing)](pwnedlabs/academy/azure-blob-container-to-initial-access-ongoing.md)
-  * [Phished for Initial Access](pwnedlabs/academy/phished-for-initial-access.md)
+  * [Azure / Entra ID Labs](pwnedlabs/academy/azure-entra-id-labs/README.md)
+    * [Azure Blob Container to Initial Access (ongoing)](pwnedlabs/academy/azure-entra-id-labs/azure-blob-container-to-initial-access-ongoing.md)
+    * [Phished for Initial Access](pwnedlabs/academy/azure-entra-id-labs/phished-for-initial-access.md)
+  * [AWS Labs](pwnedlabs/academy/aws-labs.md)
+  * [GCP Labs](pwnedlabs/academy/gcp-labs.md)
+  * [OCI Labs](pwnedlabs/academy/oci-labs.md)
+  * [Kubernetes Labs](pwnedlabs/academy/kubernetes-labs.md)
 * [Bootcamps](pwnedlabs/bootcamps/README.md)
   * [MCRTP (ongoing)](pwnedlabs/bootcamps/mcrtp-ongoing.md)
 * [Cyber Ranges](pwnedlabs/cyber-ranges.md)
