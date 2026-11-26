@@ -5,7 +5,11 @@
 ## PWNEDLABS
 
 * [Academy](pwnedlabs/academy/README.md)
+  * [Azure Blob Container to Initial Access](pwnedlabs/academy/azure-blob-container-to-initial-access.md)
   * [Phished for Initial Access](pwnedlabs/academy/phished-for-initial-access.md)
+* [Bootcamps](pwnedlabs/bootcamps/README.md)
+  * [MCRTP (ongoing)](pwnedlabs/bootcamps/mcrtp-ongoing.md)
+* [Cyber Ranges](pwnedlabs/cyber-ranges.md)
 
 ## CreedCTF
 
